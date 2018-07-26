@@ -52,7 +52,7 @@
     "marklogic",
     "search"
   ],
-  "author": "joemfb",
+  "author": "joemfb","hourdays"
   "bugs": {
     "url": "https://github.com/joemfb/ml-search-ng/issues"
   },
