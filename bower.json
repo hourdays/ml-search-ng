@@ -1,6 +1,6 @@
 {
   "name": "ml-search-ng",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "description": "An angular module for common search-app use cases",
   "main": [
     "dist/ml-search-ng.js",
@@ -15,9 +15,10 @@
     "angular-mocks": "^1.4.1",
     "angular-route": "^1.4.1"
   },
-  "homepage": "https://github.com/joemfb/ml-search-ng",
+  "homepage": "https://github.com/hourdays/ml-search-ng",
   "authors": [
-    "joemfb"
+    "joemfb",
+    "hourdays"
   ],
   "keywords": [
     "angular",

@@ -27,6 +27,7 @@
     return {
       restrict: 'E',
       scope: {
+        qtext: '=',
         results: '=',
         click: '&',
         link: '&',

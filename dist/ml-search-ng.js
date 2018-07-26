@@ -2,7 +2,7 @@
   'use strict';
 
   angular.module('ml.search', ['ml.common'])
-    .constant('ml.search.version', '0.2.8');
+    .constant('ml.search.version', '0.2.9');
 }());
 
 /* global MLSearchController */
@@ -965,6 +965,7 @@ function MLSearchController($scope, $location, mlSearch) {
     return {
       restrict: 'E',
       scope: {
+        qtext: '=',
         results: '=',
         click: '&',
         link: '&',
