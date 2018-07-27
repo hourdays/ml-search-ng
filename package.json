@@ -1,5 +1,5 @@
 {
-  "name": "ml-search-ng",
+  "name": "ml-search-ng-hourdays",
   "version": "0.2.9",
   "description": "An angular module for common search-app use cases",
   "dependencies": {},
@@ -52,7 +52,10 @@
     "marklogic",
     "search"
   ],
-  "author": "joemfb","hourdays"
+  "author": "joemfb"
+  "contributors": [
+    "hourdays"
+  ]
   "bugs": {
     "url": "https://github.com/joemfb/ml-search-ng/issues"
   },

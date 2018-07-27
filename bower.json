@@ -1,5 +1,5 @@
 {
-  "name": "ml-search-ng",
+  "name": "ml-search-ng-hourdays",
   "version": "0.2.9",
   "description": "An angular module for common search-app use cases",
   "main": [
@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/hourdays/ml-search-ng",
   "authors": [
-    "joemfb",
-    "hourdays"
+    "joemfb"
   ],
+  "contributors": [
+    "hourdays"
+  ]
   "keywords": [
     "angular",
     "angularjs",
