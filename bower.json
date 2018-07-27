@@ -1,6 +1,6 @@
 {
   "name": "ml-search-ng-hourdays",
-  "version": "0.2.9",
+  "version": "0.3.0",
   "description": "An angular module for common search-app use cases",
   "main": [
     "dist/ml-search-ng.js",

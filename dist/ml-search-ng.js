@@ -2,7 +2,7 @@
   'use strict';
 
   angular.module('ml.search', ['ml.common'])
-    .constant('ml.search.version', '0.2.9');
+    .constant('ml.search.version', '0.3.0');
 }());
 
 /* global MLSearchController */
